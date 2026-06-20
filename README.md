@@ -17,6 +17,33 @@
 ![](https://img.shields.io/badge/CGPA-8.6%2F10-6366F1?style=for-the-badge)
 ![](https://img.shields.io/badge/Graduation-2026-818CF8?style=for-the-badge)
 ![](https://img.shields.io/badge/Bengaluru-India-4338CA?style=for-the-badge)
+# ▌TECH.STACK
+
+### Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,c"/>
+</p>
+
+### Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css"/>
+</p>
+
+### Backend & Databases
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,mysql,mongodb"/>
+</p>
+
+### Cloud & Tooling
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,git,github,linux,ubuntu"/>
+</p>
+
+---
 
 <br><br>
 
