@@ -5,18 +5,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono\&weight=600\&size=25\&duration=3000\&pause=1200\&center=true\&vCenter=true\&width=1000\&lines=Building+Scalable+Software+Systems;AI+%26+Machine+Learning+Engineer;Full-Stack+Developer;Cloud+and+Automation+Enthusiast;Always+Learning+Always+Building)](https://git.io/typing-svg)
 
 <br>
-
-![](https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=for-the-badge)
-![](https://img.shields.io/badge/BUILDING-AI%20PRODUCTS-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-8B5CF6?style=for-the-badge)
-
-<br><br>
-
-![](https://img.shields.io/badge/B.E-Information%20Science-4F46E5?style=for-the-badge)
-![](https://img.shields.io/badge/CGPA-8.6%2F10-6366F1?style=for-the-badge)
-![](https://img.shields.io/badge/Graduation-2026-818CF8?style=for-the-badge)
-![](https://img.shields.io/badge/Bengaluru-India-4338CA?style=for-the-badge)
 # ▌TECH.STACK
 
 ### Languages
@@ -44,6 +32,19 @@
 </p>
 
 ---
+
+
+![](https://img.shields.io/badge/SYSTEM-ONLINE-22C55E?style=for-the-badge)
+![](https://img.shields.io/badge/BUILDING-AI%20PRODUCTS-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/FOCUS-SOFTWARE%20ENGINEERING-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-8B5CF6?style=for-the-badge)
+
+<br><br>
+
+![](https://img.shields.io/badge/B.E-Information%20Science-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-8.6%2F10-6366F1?style=for-the-badge)
+![](https://img.shields.io/badge/Graduation-2026-818CF8?style=for-the-badge)
+![](https://img.shields.io/badge/Bengaluru-India-4338CA?style=for-the-badge)
 
 <br><br>
 
